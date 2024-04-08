@@ -1,9 +1,11 @@
 //@library ('jenkinssharelibrary')_
 //declarative pipeline
-@library ('jenkinslibary042024')
-pipeline {
+@library ('jenkinslibary042024')_
+
+pipeline{
 agent any
-tools {maven "maven3.9.6"
+tools {
+maven "maven3.9.6"
 {
 def call (string stagename)
 {
