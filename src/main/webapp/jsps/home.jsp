@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company. 
-	Class35 will run from 15 th JANUARY, 2024.
+	Class35 will run from 15 th JANUARY, 2024. Team 10 project running successfully
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
