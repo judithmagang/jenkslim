@@ -32,8 +32,8 @@ jobs:
       run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
       env:
         GITHUB_TOKEN: ${{ github.token }}
-            - name: Maven package
-  uses: actions/setup-java@v4.2.1
+    - name: Maven package
+      uses: actions/setup-java@v4.2.1
   with:
     # The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file
     java-version: # optional
